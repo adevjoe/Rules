@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 IP-CIDR,1.37.35.6/32,no-resolve
+IP-CIDR,3.230.7.206/32,no-resolve
 IP-CIDR,14.136.135.180/32,no-resolve
 IP-CIDR,14.136.135.196/32,no-resolve
 IP-CIDR,14.136.137.68/32,no-resolve
@@ -70,6 +71,7 @@ IP-CIDR,24.220.183.157/32,no-resolve
 IP-CIDR,24.220.183.158/32,no-resolve
 IP-CIDR,24.222.87.162/32,no-resolve
 IP-CIDR,34.210.42.111/32,no-resolve
+IP-CIDR,34.212.15.3/32,no-resolve
 IP-CIDR,37.143.80.10/32,no-resolve
 IP-CIDR,37.143.80.14/32,no-resolve
 IP-CIDR,37.143.80.6/32,no-resolve
