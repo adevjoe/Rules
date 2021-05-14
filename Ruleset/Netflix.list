@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,3.230.7.206/32,no-resolve
+IP-CIDR,13.224.161.196/32,no-resolve
 IP-CIDR,14.136.135.180/32,no-resolve
 IP-CIDR,14.136.135.196/32,no-resolve
 IP-CIDR,14.136.137.68/32,no-resolve
