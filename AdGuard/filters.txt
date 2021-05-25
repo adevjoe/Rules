@@ -1,3 +1,4 @@
 ! Block LeetCode CN
 ||assets.leetcode-cn.com/lccn-resources/cn.js
 ||api.leetcode-cn.com/api/is_china_ip
+leetcode.com###region_switcher
