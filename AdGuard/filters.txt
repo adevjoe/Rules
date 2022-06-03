@@ -2,3 +2,6 @@
 ||assets.leetcode-cn.com/lccn-resources/cn.js
 ||api.leetcode-cn.com/api/is_china_ip
 leetcode.com###region_switcher
+
+! Block Zhihu signflow
+||static.zhihu.com/heifetz/column.signflow.*.js
