@@ -4,4 +4,4 @@
 leetcode.com###region_switcher
 
 ! Block Zhihu signflow
-||static.zhihu.com/heifetz/column.signflow.*.js
+||static.zhihu.com/heifetz/*.signflow.*.js
