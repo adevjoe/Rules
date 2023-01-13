@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,webmin.com
 DOMAIN-SUFFIX,caddyserver.com
+DOMAIN-SUFFIX,caddyserver.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
