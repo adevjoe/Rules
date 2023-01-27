@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,caddyserver.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,wasmtime.dev
+DOMAIN-SUFFIX,registry.k8s.io
