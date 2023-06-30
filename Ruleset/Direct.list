@@ -1,4 +1,5 @@
 DOMAIN,kp.m-team.cc
 DOMAIN,tracker.m-team.cc
 DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,adevjoe.com
 IPCIDR,43.129.0.0/16,no-resolve
