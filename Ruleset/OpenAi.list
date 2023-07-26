@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
