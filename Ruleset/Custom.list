@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,webmin.com
 DOMAIN-SUFFIX,caddyserver.com
-DOMAIN-SUFFIX,caddyserver.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,wasmtime.dev
@@ -19,3 +18,4 @@ DOMAIN-SUFFIX,amazonalexa.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,obsidian.md
