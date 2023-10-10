@@ -7,3 +7,5 @@ leetcode.com###region_switcher
 ||static.zhihu.com/heifetz/column.signflow.*.js
 ||static.zhihu.com/heifetz/main.signflow.*.js
 ||static.zhihu.com/heifetz/6948.*.css
+||static.zhihu.com/heifetz/chunks/581.*.js
+||static.zhihu.com/heifetz/581.*.css
