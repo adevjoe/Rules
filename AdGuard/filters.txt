@@ -4,7 +4,9 @@
 leetcode.com###region_switcher
 
 ! Block Zhihu signflow
-||static.zhihu.com/heifetz/column.signflow.*.js
-||static.zhihu.com/heifetz/main.signflow.*.js
-||static.zhihu.com/heifetz/chunks/1020.*.js
-||static.zhihu.com/heifetz/1020.*.css
+zhihu.com##.Modal-backdrop
+zhihu.com##.Modal-wrapper
+zhihu.com##.Question-sideColumnAdContainer
+zhihu.com##.signFlowModal
+zhihu.com##div[data-za-detail-view-path-module_name="相关推荐"]
+zhihu.com#$#html { overflow: scroll !important; }
