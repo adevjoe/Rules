@@ -1,7 +1,8 @@
 [AutoProxy 0.2.9]
 
-! OpenAI
+! AI
 ||ai.com
+||chatgpt.com
 ||challenges.cloudflare.com
 ||openai.com
 ||azureedge.net
@@ -19,14 +20,27 @@
 ||sentry.io
 ||oaistatic.com
 ||oaiusercontent.com
+||perplexity.ai
+||claude.ai
+||anthropic.com
 
 ! Google
 ||google.com
 ||googlevideo.com
 ||youtube.com
+||gstatic.com
+||recaptcha.net
 
 ! Other
 ||rsshub.app
 ||kraken.com
 ||proton.me
 ||okx.com
+||okcoin.com
+||stackoverflow.com
+||imgur.com
+||bigdatacloud.net
+||interactivebrokers.com.hk
+||interactivebrokers.com
+||v2raya.org
+||v2ex.com
