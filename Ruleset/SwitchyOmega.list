@@ -2,6 +2,7 @@
 
 ! AI
 ||x.ai
+||x.com
 ||ai.com
 ||grok.com
 ||chatgpt.com
@@ -32,17 +33,41 @@
 ||youtube.com
 ||gstatic.com
 ||recaptcha.net
+||google-analytics.com
+||googletagmanager.com
+
+!Dev
+
+!Invest
+||interactivebrokers.com.hk
+||interactivebrokers.com
+||ibkr.com
+||ibkr.com.hk
+||ibkr.com.cn
+||okx.com
+||okcoin.com
+||kraken.com
+||tradingview.com
+
+!Game
+||spigotmc.org
 
 ! Other
 ||rsshub.app
-||kraken.com
 ||proton.me
-||okx.com
-||okcoin.com
 ||stackoverflow.com
 ||imgur.com
 ||bigdatacloud.net
-||interactivebrokers.com.hk
-||interactivebrokers.com
 ||v2raya.org
 ||v2ex.com
+||loli.net
+||serverfault.com
+||.io
+||go-mpulse.net
+||twimg.com
+||hcaptcha.com
+||quora.com
+||taboola.com
+||bing.com
+||reddit.com
+||yahoo.com
