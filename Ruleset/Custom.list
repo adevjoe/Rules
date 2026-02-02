@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,bjango.com
 
 # ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
 
 # other
 DOMAIN-SUFFIX,cathaypacific.com
