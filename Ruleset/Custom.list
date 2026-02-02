@@ -21,8 +21,10 @@ DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,obsidian.md
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,immersivetranslate.com
 
 # iStat Menus
 DOMAIN-SUFFIX,bjango.com
