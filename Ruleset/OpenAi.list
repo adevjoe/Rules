@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
