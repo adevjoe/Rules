@@ -25,6 +25,11 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,immersivetranslate.com
+DOMAIN-SUFFIX,assrt.net
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,mozilla.com
 
 # iStat Menus
 DOMAIN-SUFFIX,bjango.com
