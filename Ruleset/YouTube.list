@@ -1,2 +1,4 @@
+# 内容：广告补充
+# 说明：用于 full.ini 的广告拦截规则
 DOMAIN-SUFFIX,ad.doubleclick.net
 DOMAIN-SUFFIX,ade.googlesyndication.com
