@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,cdn.usefathom.com
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,intellimize.co
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,datadog.com
 DOMAIN-SUFFIX,imtintl.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,intellimize.co
