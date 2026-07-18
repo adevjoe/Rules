@@ -33,9 +33,13 @@ DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,nzbfinder.ws
 DOMAIN-SUFFIX,servarr.com
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,favicon.im
 
 # iStat Menus
 DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,istatmenus.app
 
 # other
 DOMAIN-SUFFIX,cathaypacific.com
