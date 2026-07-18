@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,favicon.im
+DOMAIN-SUFFIX,datadoghq.com
 
 # iStat Menus
 DOMAIN-SUFFIX,bjango.com
