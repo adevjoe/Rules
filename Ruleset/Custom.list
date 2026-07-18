@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,fastly-edge.com
 DOMAIN-SUFFIX,favicon.im
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,yr.c.lencr.org
+DOMAIN-SUFFIX,my-imcloud.com
 
 # iStat Menus
 DOMAIN-SUFFIX,bjango.com
