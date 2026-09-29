@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,favicon.im
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,yr.c.lencr.org
 DOMAIN-SUFFIX,my-imcloud.com
+DOMAIN-SUFFIX,omarchy.org
+DOMAIN-SUFFIX,omarchyplugins.com
 
 # tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
