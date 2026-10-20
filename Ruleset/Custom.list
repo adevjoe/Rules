@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.bz
+DOMAIN-SUFFIX,sonarr.tv
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,nzbfinder.ws
 DOMAIN-SUFFIX,servarr.com
@@ -41,6 +42,12 @@ DOMAIN-SUFFIX,yr.c.lencr.org
 DOMAIN-SUFFIX,my-imcloud.com
 DOMAIN-SUFFIX,omarchy.org
 DOMAIN-SUFFIX,omarchyplugins.com
+DOMAIN-SUFFIX,grammarly.io
+DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,lisahost.com
+DOMAIN-SUFFIX,herdr.dev
+DOMAIN-SUFFIX,ipinfo.es
+DOMAIN-SUFFIX,archlinux.org
 
 # tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
