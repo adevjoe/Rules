@@ -49,6 +49,10 @@ DOMAIN-SUFFIX,herdr.dev
 DOMAIN-SUFFIX,ipinfo.es
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,moomoobull.com
+DOMAIN-SUFFIX,reasonmachines.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 
 # tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
