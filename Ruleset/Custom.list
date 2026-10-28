@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,immersivetranslate.com
-DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,plex.tv
@@ -98,3 +97,10 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,multica.ai
 DOMAIN-SUFFIX,proxy-cheap.com
 DOMAIN-SUFFIX,nousresearch.com
+DOMAIN-SUFFIX,opensubtitles.com
+DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,shlii.io
+DOMAIN-SUFFIX,vmiss.com
+DOMAIN-SUFFIX,gost.run
+DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,intercom.help
