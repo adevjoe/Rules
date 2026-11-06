@@ -42,6 +42,40 @@ DOMAIN-SUFFIX,wmtransfer.com
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,cloudbet.com
 
+# IBKR
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.cn
+
+# MooMoo
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.ca
+DOMAIN-SUFFIX,moomoobull.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu.cn
+DOMAIN-SUFFIX,futu.link
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuau.com
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhk1.com
+DOMAIN-SUFFIX,futuhk2.com
+DOMAIN-SUFFIX,futuhkapp.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futuoa.com
+DOMAIN-SUFFIX,futusg.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,fututrade.com
+DOMAIN-SUFFIX,fututrustee.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
+
+# Wise
+DOMAIN-SUFFIX,wise.com
+
 # Huobi
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
