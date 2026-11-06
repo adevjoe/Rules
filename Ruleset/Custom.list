@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,reasonmachines.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,cathaypacific.com
 
 # tiktok
 DOMAIN,p16-tiktokcdn-com.akamaized.net
@@ -75,17 +76,11 @@ DOMAIN-SUFFIX,bjango.com
 DOMAIN-SUFFIX,istatmenus.app
 
 # other
-DOMAIN-SUFFIX,cathaypacific.com
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,interactivebrokers.com.hk
-DOMAIN-SUFFIX,interactivebrokers.com.cn
-DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,givefreely.com
 DOMAIN-SUFFIX,imtintl.com
-DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,producthunt.com
